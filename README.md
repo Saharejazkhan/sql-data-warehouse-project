@@ -67,9 +67,7 @@ To develop SQL-based analytics to generate actionable business insights into :
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-![Alt Text](Repository Structure.png)
-
-
+https://github.com/Saharejazkhan/sql-data-warehouse-project/blob/main/Repository%20Structure.png
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
