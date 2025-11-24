@@ -67,10 +67,17 @@ To develop SQL-based analytics to generate actionable business insights into :
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+
+📂 Repository Structure:
+
 https://github.com/Saharejazkhan/sql-data-warehouse-project/blob/main/Repository%20Structure.png
 
-🛡️ License
+
+License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
 
 🌟 About Me
 Hi there! I'm Sahar Ejaz and I'm a Data Engineering Trainee. 
+Connect with me on <img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/f411f7d0-dad1-4eca-8d88-38bfce7da559" />
+
